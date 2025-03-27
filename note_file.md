@@ -15,4 +15,13 @@ converts the first character of string to uppercase and the rest to lowercase.
 returns the lowest index of the substring if found, otherwise returns 1.
 
 # str_swapcase
-swaps all uppercase to lowercase and vice versa.
+swaps all uppercases to lowercase and vire versa.
+
+# str_strip
+removes leading and trailing whitespace.
+
+# str_lstrip
+removes leading whitespace.
+
+# str_rstrip
+removes trailing whitespace.
