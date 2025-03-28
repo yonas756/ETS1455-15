@@ -25,3 +25,12 @@ removes leading whitespace.
 
 # str_rstrip
 removes trailing whitespace.
+
+# str_join
+joins the elements of a list.
+
+# str_replace
+replace a string with another string.
+
+# str_split
+splits a string into smaller strings.
