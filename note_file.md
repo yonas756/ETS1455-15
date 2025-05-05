@@ -34,3 +34,12 @@ replace a string with another string.
 
 # str_split
 splits a string into smaller strings.
+
+#  str.isspace()
+Checks if all characters in the string are whitespace.
+
+ # str.isalnum()
+Checks if all characters in the string are alphanumeric.
+
+# str.endswith()
+Checks if the string ends with a specified suffix
